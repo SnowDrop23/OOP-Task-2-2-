@@ -36,7 +36,8 @@ public class Main {
 package firstproject;
 
 public class Greeter {
-	
+
+	//Method Overloading
 	void greet()
 	{
 		System.out.println("Hi there");
