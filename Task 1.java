@@ -40,7 +40,8 @@ package firstproject;
 public class car {
 	String model_name;
 	int speed, year;
-	
+
+	//Parameterized-Constructor
 	car (String model_name, int speed, int year)
 	{
 		this.model_name = model_name;
