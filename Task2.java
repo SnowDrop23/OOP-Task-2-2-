@@ -35,7 +35,8 @@ package firstproject;
 public class Books {
 	String name, author;
 	int no_of_pages;
-	
+
+	//Parameterized-construtor
 	Books(String name, String author, int no_of_pages)
 	{
 		this.name = name;
